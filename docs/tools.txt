@@ -1,0 +1,3 @@
+EJS: Uma linguagem de modelagem para criação de paginas HTML utilizando JS
+Nodemon: Um utilitário que reinicia automaticamente o servidor NodeJS quando houver qualquer alteração em nossos scripts.
+NPM: Um gerenciador de pacotes JS. 

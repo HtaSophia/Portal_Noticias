@@ -1,0 +1,3 @@
+NodeJs é um servidor de programa:O NodeJS suporta a execução de códigos JavaScript permitindo sua utilização do lado do servidor.
+
+Vantagem de utilizar o NodeJs: Disponibilizar uma maneira mais fácil de desenvolver sistemas de rede escaláveis. O NodeJS possibilita atender a diversas requisições simultâneas sem dar deadlock ou negá-las.
